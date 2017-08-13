@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComDatas", "TrabalhandoComDatas\TrabalhandoComDatas.csproj", "{77912D66-83C9-4359-A86C-AD5FF743EF44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosPorExtenso", "NumerosPorExtenso\NumerosPorExtenso.csproj", "{50AE288F-6D74-4E45-9BB9-2C6F3DC33172}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{77912D66-83C9-4359-A86C-AD5FF743EF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77912D66-83C9-4359-A86C-AD5FF743EF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77912D66-83C9-4359-A86C-AD5FF743EF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50AE288F-6D74-4E45-9BB9-2C6F3DC33172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AE288F-6D74-4E45-9BB9-2C6F3DC33172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AE288F-6D74-4E45-9BB9-2C6F3DC33172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AE288F-6D74-4E45-9BB9-2C6F3DC33172}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
