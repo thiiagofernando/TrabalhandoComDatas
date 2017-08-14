@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComDatas", "Trab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosPorExtenso", "NumerosPorExtenso\NumerosPorExtenso.csproj", "{50AE288F-6D74-4E45-9BB9-2C6F3DC33172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComDinheiro", "TrabalhandoComDinheiro\TrabalhandoComDinheiro.csproj", "{6CDEAC76-1D42-4ECA-A4A7-764B0A5AECAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{50AE288F-6D74-4E45-9BB9-2C6F3DC33172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50AE288F-6D74-4E45-9BB9-2C6F3DC33172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50AE288F-6D74-4E45-9BB9-2C6F3DC33172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDEAC76-1D42-4ECA-A4A7-764B0A5AECAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDEAC76-1D42-4ECA-A4A7-764B0A5AECAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDEAC76-1D42-4ECA-A4A7-764B0A5AECAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDEAC76-1D42-4ECA-A4A7-764B0A5AECAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
